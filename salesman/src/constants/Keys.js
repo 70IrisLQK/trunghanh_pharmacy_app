@@ -1,0 +1,1 @@
+export const MAP_BOX_API = pk.eyJ1Ijoia2hhbmg3NTM3ODkiLCJhIjoiY2wxb2liN2hmMDBrMjNkcXVxOWwxcHg1cCJ9.muB1zQ3L7ZtoBheCKjVwvg

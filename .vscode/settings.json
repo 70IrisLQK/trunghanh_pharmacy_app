@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a10a4a43-d19f-41cd-b1bb-48cffcc3e48e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/trunghanh",
+    "appService.deploySubpath": "server_customer"
+}

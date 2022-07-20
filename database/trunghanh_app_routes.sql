@@ -1,0 +1,58 @@
+-- MySQL dump 10.13  Distrib 8.0.26, for Win64 (x86_64)
+--
+-- Host: localhost    Database: trunghanh_app
+-- ------------------------------------------------------
+-- Server version	8.0.26
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `routes`
+--
+
+DROP TABLE IF EXISTS `routes`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `routes` (
+  `route_id` char(36) CHARACTER SET utf8mb4 COLLATE utf8mb4_bin NOT NULL,
+  `route_name` varchar(255) DEFAULT NULL,
+  `status` varchar(255) DEFAULT 'Chờ xác nhận',
+  `user_id` char(36) CHARACTER SET utf8mb4 COLLATE utf8mb4_bin DEFAULT NULL,
+  `route_date` datetime DEFAULT NULL,
+  `created_at` datetime DEFAULT NULL,
+  `updated_at` datetime DEFAULT NULL,
+  `pharmacy_id` char(36) DEFAULT NULL,
+  `week_date` enum('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday') DEFAULT NULL,
+  PRIMARY KEY (`route_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `routes`
+--
+
+LOCK TABLES `routes` WRITE;
+/*!40000 ALTER TABLE `routes` DISABLE KEYS */;
+INSERT INTO `routes` VALUES ('53669c88-5b4a-463e-a323-197fd3a1ab26','Tuyen 1','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,NULL,NULL,'0806B70F-6A0D-41E3-A802-0E26AFE8E187',NULL),('53669c88-5b4a-463e-a323-197fd3a1ab27','Tuyen 1','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,NULL,NULL,'08F31086-E02B-4B5C-8A07-D270DA40C8B8',NULL),('53669c88-5b4a-463e-a323-197fd3a1ab28','Tuyen 1','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,NULL,NULL,'0A8BFFF5-8E9A-458B-9E38-AE27100C2627',NULL),('53669c88-5b4a-463e-a323-197fd3a1ab29','Tuyen 1','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,NULL,NULL,'0B1DB34E-6FAF-4BFD-96B4-0443504F5F54',NULL),('53669c88-5b4a-463e-a323-197fd3a1ab66','Tuyen 1','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,NULL,NULL,'46C089E8-04F5-4F2D-9EE1-18AC53E26322','Friday'),('553ba1fb-5cd8-4ac4-b1ed-251ea7835a22','Tuyến 2','Chờ xác nhận','53669c88-5b4a-463e-a323-197fd3a1ab22',NULL,'2022-04-21 03:14:23',NULL,'05ECB829-ECCD-451E-974A-F8EDF023F022','Monday'),('629e61df-5fcc-4599-9c10-1ff241b4c693','Tuyến 2','Đã xác nhận','53669c88-5b4a-463e-a323-197fd3a1abf7',NULL,'2022-04-21 03:13:03',NULL,'0681ACC9-A943-48DC-B649-B48F3B0B2099','Wednesday');
+/*!40000 ALTER TABLE `routes` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2022-04-23 11:28:10
