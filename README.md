@@ -49,8 +49,10 @@ $ npm install
 
 # Run the app
 $ npm start
+```
 
 ## Technical
+
 - ReactJS
 - React Native
 - NodeJS
@@ -64,5 +66,5 @@ $ npm start
 - ....
 
 ## Some creens in app
-![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/5_lzuwzo.png "Optional title")
-```
+
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/5_lzuwzo.png 'Optional title')
