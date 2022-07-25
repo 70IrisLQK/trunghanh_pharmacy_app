@@ -3,10 +3,9 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#technical">Technical</a> •
+  <a href="#screens">Screens</a> •
+  <a href="#document">Document</a>
 </p>
 
 ## Key Features
@@ -67,4 +66,18 @@ $ npm start
 
 ## Some creens in app
 
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/1_xzmrpc.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/2_dgqtvj.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/3_tjihzx.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766805/trunghanh/4_dwaanb.png 'Optional title')
 ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/5_lzuwzo.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/6_joirrq.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/7_f8l87m.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/8_qgkzux.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/10_xymbeq.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/11_zewile.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/12_iwfjuc.png 'Optional title')
+
+## Document
+
+- https://drive.google.com/file/d/124e3FiTncwdxWemwhbVf9wy9uG5SAPtg/view?usp=sharing
