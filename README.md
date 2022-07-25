@@ -28,7 +28,7 @@
 - Allow the salesman to check in at the pharmacy.
 - Allow the salesman to view the orders list that they have placed.
 - Allow the salesman to view orders in detail.
-  ......
+- ......
 
 ## How To Use
 
@@ -77,6 +77,8 @@ $ npm start
 ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/10_xymbeq.png 'Optional title')
 ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/11_zewile.png 'Optional title')
 ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/12_iwfjuc.png 'Optional title')
+
+- ......
 
 ## Document
 
