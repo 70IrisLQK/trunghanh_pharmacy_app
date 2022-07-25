@@ -66,28 +66,17 @@ $ npm start
 
 ## Some creens in app
 
-  <p align="center">
-  - Login Screen
-  <img src="https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/1_xzmrpc.png" width="350" alt="accessibility text">
-</p>
-- Home Screen
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/2_dgqtvj.png 'Optional title')
-- Search Screen
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/3_tjihzx.png 'Optional title')
-- Add to cart Scrren
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766805/trunghanh/4_dwaanb.png 'Optional title')
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/5_lzuwzo.png 'Optional title')
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/6_joirrq.png 'Optional title')
-- Note Screen (Salesman Screen)
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/7_f8l87m.png 'Optional title')
-- Route Screen (Salesman Screen)
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/8_qgkzux.png 'Optional title')
-- Map Screen (Salesman Screen)
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/10_xymbeq.png 'Optional title')
-- DarshBoard Screen (Admin Screen)
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/11_zewile.png 'Optional title')
-- Manage Note Screen (Admin Screen)
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/12_iwfjuc.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/1_xzmrpc.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/2_dgqtvj.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/3_tjihzx.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766805/trunghanh/4_dwaanb.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/5_lzuwzo.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/6_joirrq.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/7_f8l87m.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/8_qgkzux.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/10_xymbeq.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/11_zewile.png 'Optional title')
+![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766803/trunghanh/12_iwfjuc.png 'Optional title')
 
 ## Document
 
