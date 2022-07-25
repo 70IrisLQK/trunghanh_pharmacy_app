@@ -60,7 +60,7 @@ $ npm start
 - Sequelize
 - Redux
 - JSON Web Token
-- Html, Css, Javascript
+- HTML, CSS, JavaScript
 - GoogleAPI
 - ....
 
