@@ -66,8 +66,10 @@ $ npm start
 
 ## Some creens in app
 
-- Login Screen
-  ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/1_xzmrpc.png 'Optional title')
+  <p align="center">
+  - Login Screen
+  <img src="https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/1_xzmrpc.png" width="350" alt="accessibility text">
+</p>
 - Home Screen
   ![Alt text](https://res.cloudinary.com/dxctxnjzk/image/upload/v1658766804/trunghanh/2_dgqtvj.png 'Optional title')
 - Search Screen
